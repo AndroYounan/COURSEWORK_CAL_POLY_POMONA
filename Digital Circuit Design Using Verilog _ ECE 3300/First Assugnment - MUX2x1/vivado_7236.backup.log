@@ -1,0 +1,38 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Wed Jun 10 22:10:16 2020
+# Process ID: 7236
+# Current directory: D:/CPP/Summer 2020/3300/Projects/First Assugnment - MUX2x1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent1924 D:\CPP\Summer 2020\3300\Projects\First Assugnment - MUX2x1\First Assugnment - MUX2x1.xpr
+# Log file: D:/CPP/Summer 2020/3300/Projects/First Assugnment - MUX2x1/vivado.log
+# Journal file: D:/CPP/Summer 2020/3300/Projects/First Assugnment - MUX2x1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:/CPP/Summer 2020/3300/Projects/First Assugnment - MUX2x1/First Assugnment - MUX2x1.xpr}
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Programs/Vivado/2019.2/data/ip'.
+open_project: Time (s): cpu = 00:00:28 ; elapsed = 00:00:18 . Memory (MB): peak = 758.934 ; gain = 134.418
+update_compile_order -fileset sources_1
+open_run synth_1 -name synth_1
+Design is defaulting to impl run constrset: constrs_1
+Design is defaulting to synth run part: xc7a100tcsg324-1
+INFO: [Device 21-403] Loading part xc7a100tcsg324-1
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1030.227 ; gain = 0.000
+INFO: [Project 1-479] Netlist was created with Vivado 2019.2
+INFO: [Project 1-570] Preparing netlist for logic optimization
+Parsing XDC File [D:/CPP/Summer 2020/3300/Projects/First Assugnment - MUX2x1/First Assugnment - MUX2x1.srcs/constrs_1/new/mux2x1.xdc]
+Finished Parsing XDC File [D:/CPP/Summer 2020/3300/Projects/First Assugnment - MUX2x1/First Assugnment - MUX2x1.srcs/constrs_1/new/mux2x1.xdc]
+INFO: [Opt 31-138] Pushed 0 inverter(s) to 0 load pin(s).
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 1113.648 ; gain = 0.000
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+open_run: Time (s): cpu = 00:00:27 ; elapsed = 00:00:17 . Memory (MB): peak = 1236.301 ; gain = 477.211
+report_utilization -name utilization_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Wed Jun 10 23:30:10 2020...
