@@ -1,6 +1,6 @@
 /* 
  * File:   Lab_6.c
- * Author: dodda
+ * Author: Andro Younan
  *
  * Created on July 9, 2020, 5:36 AM
  */
