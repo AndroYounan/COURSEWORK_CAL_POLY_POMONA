@@ -1,6 +1,6 @@
 # Lab 4: Fourth Assignment - Up Counter Using 2 7SegDisp
 
-A 1-bit full adder is a combinational circuit that adds three inputs and produces two outputs. The first two inputs are (A) and (B) and the third input is the carry in (CI). The outputs are the (SUM) and the carry out (CO).
+we are implementing the use of two BCD counters in this assignment
 
 ## Instructions for this lab :
 
