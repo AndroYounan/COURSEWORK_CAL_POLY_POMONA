@@ -1,5 +1,4 @@
 # Course Outcomes
-By the end of this course I became able to:\
 * Learning about the memory organization and the different registers inside the PIC18F4321.\
 * Learning about different Data Addressing Modes in Assembly (Inherent, Literal, Direct and Indirect).\
 * Learning about Instruction Set (Byte-oriented operations, Bit-oriented operations, Literal operations Control operations).\
