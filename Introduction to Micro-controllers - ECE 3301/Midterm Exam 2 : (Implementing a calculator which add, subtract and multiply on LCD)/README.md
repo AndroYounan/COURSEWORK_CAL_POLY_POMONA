@@ -1,4 +1,4 @@
-# Midterm Exam 2 : (Implementing a calculator which add, subtract and multiply on LCD)
+# Midterm Exam 2 : (Implementing a calculator which add, subtract and multiply on LCD using 2 switches)
 
 ## Instructions that I followed for this lab :
 The data pins of the LCD must be connected to `PORTB`. (the `LVP` config bit has to be set to OFF inside `config.h`).\
@@ -6,7 +6,7 @@ The 3 signal pins of the LCD must be connected to the 3 least significant bits o
 The DIP switches must be connected to `PORTD` pins, specifically `RD3` and `RD4`.\
 The wiper (middle) pin of the potentiometers must be connected to `AN0` and `AN1`.\
 The other pins of the potentiometers must be connected to +5V and 0V.
-* Switch Pattern:
+* Switch Pattern:\
   `0`: Display is off.\
   `1`: Add the two signed integers.\
   `2`: Subtract the two signed integers.\
