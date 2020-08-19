@@ -1,4 +1,4 @@
-# Lab 4 : (INTERFACING DIP SWITCHES AND LEDSs TO THE PIC18F4321 USING PIC18F ASSEMBLY AND PROGRAMMED I\O)
+# Lab 4 : (INTERFACING DIP SWITCHES AND LEDSs TO THE PIC18F4321 USING PIC18F ASSEMBLY AND PROGRAMMED IO)
 
 ## Instructions that I followed for this lab :
 I wrote assembly code and C code to control 2 LEDs using 2 DIP switches by following these specifications:\
