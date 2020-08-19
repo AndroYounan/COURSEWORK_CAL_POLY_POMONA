@@ -19,7 +19,7 @@
 • Reset
 • Minimum Connections
 • PICKIT4 Programmer/Debugger
-* Learning about I/O ports.\
+* Learning about I/O ports.
 * Learning about Interrupts and priorities:\
 • Internal from peripherals (Timer, ADC,…etc.)\
 • External (Multiplexed with pins of PORTB)\
