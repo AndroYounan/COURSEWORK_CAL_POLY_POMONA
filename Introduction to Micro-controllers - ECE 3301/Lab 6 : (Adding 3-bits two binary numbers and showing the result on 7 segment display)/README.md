@@ -1,4 +1,4 @@
-# Lab 3 : (Adding 3-bits two binary numbers and showing the result on 7 segment display)
+# Lab 6 : (Adding 3-bits two binary numbers and showing the result on 7 segment display)
 
 ## Instructions that I followed for this lab :
 I designed and implemented hardware and software (assembly and C-program) for adding
